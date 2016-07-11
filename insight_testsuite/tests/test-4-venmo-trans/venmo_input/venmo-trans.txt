@@ -1,0 +1,7 @@
+#Check if any parsing issues with incorrect file text
+{"created_time": "2016-03-28T23:23:12Z", "target": "", "actor": "Ricardo-Lach"}
+{"created_time": "2016-03-28T23:23:12Z", "target": "Joey-Feste", "actor": ""}
+{"created_time": "", "target": "Cary-Gitter", "actor": "Ricardo-Lach"}
+{"": "2016-03-28T23:23:12Z", "target": "", "actor": "Ricardo-Lach"}
+{"created_time": "2016-03-28T23:23:12Z", "": "Joey-Feste", "actor": ""}
+{"created_time": "", "target": "Cary-Gitter", "": "Ricardo-Lach"}

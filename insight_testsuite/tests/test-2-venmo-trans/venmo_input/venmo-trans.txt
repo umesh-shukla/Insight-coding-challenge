@@ -1,0 +1,5 @@
+#Check if multiple users with same names are counted twice or not
+{“created_time": "2016-04-07T03:33:19Z", "target": "Jamie-Korn", "actor": "Jordan-Gruber"}
+{“created_time": "2016-04-07T03:33:21Z", "target": "Jamie-Korn", "actor": "Jordan-Gruber"}
+{“created_time": "2016-04-07T03:33:21Z", "target": "Jordan-Gruber", "actor": "Jamie-Korn"}
+
